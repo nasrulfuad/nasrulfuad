@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasrul</h1>
-<h3 align="center">A passionate sotware engineer from Indonesia 🇮🇩️</h3>
+<h3 align="center">A passionate in sotware engineer 🇮🇩️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
