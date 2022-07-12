@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasrul</h1>
-<h3 align="center">People who love code and cat from 🇮🇩️</h3>
+<h3 align="center">Typescript enthusiast and cat lover from 🇮🇩️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
